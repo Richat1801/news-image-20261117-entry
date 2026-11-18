@@ -1,6 +1,6 @@
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/news-image-20261117)
-[![Prize $250](https://img.shields.io/badge/prize-%24250-16a34a)](https://make.fun/bounty/news-image-20261117)
-[![Deadline 19 Nov 2026](https://img.shields.io/badge/deadline-19%20Nov%202026-b91c1c)](https://make.fun/bounty/news-image-20261117)
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Richat1801/news-image-20261117-entry/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Richat1801/news-image-20261117-entry/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 # Tuesday 17 November 2026 — the world in one image
 
